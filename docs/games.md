@@ -98,6 +98,7 @@ sidebar_label: Games
 - [Darksoftware Forum](https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
 - [Download Game PS3](https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
 - [PS3iso](http://www.ps3iso.net/) - Free PS3 games downloadable via filecrypt.cc.
+- [NoPayStation V3](https://nopaystation.com/) - Download games and DLCs for your modded console directly from Sony's servers.
 
 ### 3DS
 
